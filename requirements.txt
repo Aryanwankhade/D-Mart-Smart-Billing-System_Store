@@ -1,4 +1,6 @@
-pip install flask
-pip install secure-smtplib
-pip install reportlab
+flask
+secure-smtplib
+reportlab
+gunicorn
+pandas
 vzom zvzn qrys hxna
